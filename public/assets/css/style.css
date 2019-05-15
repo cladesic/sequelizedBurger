@@ -1,0 +1,40 @@
+
+body {
+  background-image: url("../css/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.jumbotron{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h1{
+  color:white;
+}
+h2{
+  color:white;
+}
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  label{
+    color:white;
+  }
